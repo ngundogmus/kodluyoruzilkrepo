@@ -17,6 +17,8 @@ Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 
 [MIT](https://github.com/ngundogmus/kodluyoruzilkrepo.git)
 
+![GitHup Proje:](image.png)
+
 
 
 
